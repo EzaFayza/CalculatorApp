@@ -1,0 +1,35 @@
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertugasan\Pertemuan 8\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertugasan\Pertemuan 8\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertugasan\Pertemuan 8\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertugasan\Pertemuan 8\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertugasan\Pertemuan 8\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmHasil.resources
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertugasan\Pertemuan 8\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmInputHitung.resources
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertugasan\Pertemuan 8\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertugasan\Pertemuan 8\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertugasan\Pertemuan 8\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertugasan\Pertemuan 8\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\Kuliah\Amikom\Semester 3\Pemrograman Lanjut\Pertugasan\Pertemuan 8\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.FrmHasil.resources
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.FrmInputHitung.resources
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\Visual Studio\Calculator-App-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.FrmHasil.resources
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.FrmInputHitung.resources
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\ezafa\Downloads\CalculatorApp-main\CalculatorApp-main\Calculator-App-main\CalculatorApp\obj\Debug\CalculatorApp.pdb
